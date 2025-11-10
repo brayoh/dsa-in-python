@@ -1,4 +1,4 @@
-# Data structures and algorithms in Python
+# Data Structures & Algorithms In Python
 
 Code written for learning of data structures and algorithms using Python 3 to improve my understanding in preparation for my Data Science and Machine Learning Journey.
 
