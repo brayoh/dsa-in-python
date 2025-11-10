@@ -6,7 +6,7 @@ Code written for learning of data structures and algorithms using Python 3 to im
 
 This repository contains small Python programs demonstrating various DSA concepts:
 
-- [recursion] (recursion/): Recursion basics and advanced
+- [recursion](recursion/): Recursion basics and advanced
 
 ## Topics Covered
 
