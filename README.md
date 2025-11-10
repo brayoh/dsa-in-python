@@ -6,21 +6,22 @@ Code written for learning of data structures and algorithms using Python 3 to im
 
 This repository contains small Python programs demonstrating various DSA concepts:
 
-- [recursion](recursion/): Recursion basics and advanced
+- [recursion](recursion/): Recursion basics and advanced.
+- [big-o](big-o/): Big Θ notation applications.
 
 ## Topics Covered
 
-[x] Recursion
-[] Big Θ Notation
-[] Arrays
-[] Lists
-[] ArrayLists
-[] Dictionaries
-[] Tuples
-[] Linked-List
-[] Circular Singly Linked-List
-[] Doubly Linked-List
-[] Circular Doubly Linked-List
+- [x] Recursion
+- [] Big Θ Notation
+- [] Arrays
+- [] Lists
+- [] ArrayLists
+- [] Dictionaries
+- [] Tuples
+- [] Linked-List
+- [] Circular Singly Linked-List
+- [] Doubly Linked-List
+- [] Circular Doubly Linked-List
 
 ## Running the Examples
 
